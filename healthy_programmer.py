@@ -24,9 +24,9 @@ if __name__ == '__main__':
     init_water = time()
     init_exercise = time()
     init_eyes = time()
-    watersecs = 5
-    exsecs = 10
-    eyessecs = 15
+    watersecs = 1560
+    exsecs = 2700
+    eyessecs = 1800
     while True:
         if init_water>watersecs:
             print("time to drink water. Enter 'drank' to stop the alarm")
